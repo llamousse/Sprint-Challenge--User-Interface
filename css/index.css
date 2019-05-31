@@ -84,10 +84,12 @@ nav a {
     text-decoration: none;
     color: black;
     font-size: 14px;
+    margin-right: 5.5%;
 }
 
-nav img {
-    margin-left: 0;
+.nav-tags {
+    display: flex;
+    align-items: flex-start;
 }
 
 .top-img {
