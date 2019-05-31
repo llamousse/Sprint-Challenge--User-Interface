@@ -163,11 +163,19 @@ footer nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 2%;
+    padding: 25px 2%;
     font-size: 14px;
 }
 
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+/* ABOUT SECTION */
+
+.about-top-content {
+    width: 100%;
+    padding: 0 2%;
+    padding-bottom: 20px;
 }
